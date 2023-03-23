@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+#finish-day{
+    display: none;
+}
+
+#launch-hour{
+    display: none;
+}
+
+.buttons-hidden{
+    display: none;
+}
